@@ -11,9 +11,10 @@ things with sets, generators, and formulas with the sudoku array.
 
 ### Day 1: December 29, 2020
 
-**Today's Progress:**  
+**Today's Progress:** Used "naked singles" to solve easy puzzles. Incorporated timer class to measure performance.
 
-**Thoughts:** 
+**Thoughts:** Using a naive solution was able to solve many "hard" sudokus just using the "naked singles" method. Research of backtracking but no implementation yet,
+I'm considering how efficient I want to make the backtracking, possibly leveraging the number of candidates for squares.
 
 **Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
 
