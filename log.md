@@ -18,6 +18,15 @@ I'm considering how efficient I want to make the backtracking, possibly leveragi
 
 **Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
 
+### Day 2: December 30, 2020
+
+**Today's Progress:** Added tkinter GUI for interactive element and displayed sudoku in grid. No actual interactive elements yet.
+
+**Thoughts:** I debated whether to use pygame or tkinter and decided to learn the "classic" first. Will take me a bit to wrap my head
+around implementing the event loop properly.
+
+**Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
+
 <!---
 ### Day x: December xx, 2020
 
