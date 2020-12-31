@@ -27,6 +27,15 @@ around implementing the event loop properly.
 
 **Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
 
+### Day 3: December 31, 2020
+
+**Today's Progress:** Moved tkinter GUI into its own class and did a basic animation of the program solving via naked singles. First interactions with the GUI via a button.  Dynamic updates of the labels.
+
+**Thoughts:**  Project is growing! Definitely see this project being a bigger challenge if and when I allow users to enter their own solutions. 
+Maybe I need to include fields instead of labels for blanks? This project feels MUCH bigger than what I originally thought. Feature creep for sure.
+
+**Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
+
 <!---
 ### Day x: December xx, 2020
 
