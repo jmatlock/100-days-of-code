@@ -36,8 +36,16 @@ Maybe I need to include fields instead of labels for blanks? This project feels 
 
 **Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
 
+### Day 4: January 1, 2021
+
+**Today's Progress:** Implemented a not optimal version of backtracking in command line version.
+
+**Thoughts:** This work was a bit more difficult than expected due to my choices on data structures. As I traversed, I needed to clean up "guesses" when I backtracked. Still I managed to get it working. It will be interesting to include this in the GUI. Unclear if I will continue beyond that point or set aside and move on to something else.
+
+**Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
+
 <!---
-### Day x: December xx, 2020
+### Day x: January xx, 2021
 
 **Today's Progress:** 
 
