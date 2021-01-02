@@ -44,6 +44,14 @@ Maybe I need to include fields instead of labels for blanks? This project feels 
 
 **Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
 
+### Day 5: January 2, 2021
+
+**Today's Progress:** The backtracking solution is animated in the UI. Made the animation more flexible so any additional methods can more easily update the grid. 
+
+**Thoughts:** Did some work improving the structure and it really is starting to shape up. I'm about to a point where I may declare a version of this "done enough" and
+move on to another project. Considering the Matrix Clock and a web based random task generator.
+
+**Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
 <!---
 ### Day x: January xx, 2021
 
