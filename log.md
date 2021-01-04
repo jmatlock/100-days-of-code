@@ -52,6 +52,17 @@ Maybe I need to include fields instead of labels for blanks? This project feels 
 move on to another project. Considering the Matrix Clock and a web based random task generator.
 
 **Link(s) to work:** [Sudoku Solver](https://github.com/jmatlock/SudokuSolver)
+
+### Day 6: January 3, 2021
+
+**Today's Progress:** Started RGB LED Matrix Clock project, starting with code from Adafruit Moon Clock. Up and running with stock code, no changes yet.
+
+**Thoughts:** Took time building out the structure of the project in Pycharm and finding a way to do a workflow where I have to copy code from the Pycharm project
+to the Matrix Portal drive. I want to improve this workflow, maybe using the Micropython plugin. Also, need to point to a different time server as the one being used
+in the Moon Clock project seems to be prepetually busy and unable to provide time of day info.
+
+**Link(s) to work:** TBD
+
 <!---
 ### Day x: January xx, 2021
 
