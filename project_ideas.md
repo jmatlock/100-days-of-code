@@ -1,7 +1,8 @@
 # Project Ideas
 
-- [ ] [Sudoku Solver](https://github.com/jmatlock/SudokuSolver) (in progress)
-- LED Matrix Clock/Weather/News/etc station using Adafruit Matrix Portal
+- [x] [Sudoku Solver](https://github.com/jmatlock/SudokuSolver) (first version)
+- [ ] Sudoku Solver - additional features TBD
+- [ ] LED Matrix Clock/Weather/News/etc station using Adafruit Matrix Portal :construction:
 - Quiz Master for virtual group game nights
 - Report/Database Python Module for Spreadsheet Processing
 - Spreadsheet Difference Generator
