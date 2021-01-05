@@ -63,6 +63,14 @@ in the Moon Clock project seems to be prepetually busy and unable to provide tim
 
 **Link(s) to work:** TBD
 
+### Day 7: January 4, 2021
+
+**Today's Progress:** Changed base code to simpler Adafruit Network Clock project. Added day of week and date to display.
+
+**Thoughts:** The Moon Clock project is quite complex and I wanted to simplify things to help me make better progress. Sometimes stepping back is a good choice. Looking forward to including weather info and having a two line display.
+
+**Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
+
 <!---
 ### Day x: January xx, 2021
 
