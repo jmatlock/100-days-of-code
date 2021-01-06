@@ -71,6 +71,14 @@ in the Moon Clock project seems to be prepetually busy and unable to provide tim
 
 **Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
 
+### Day 8: January 5, 2021
+
+**Today's Progress:** Reading data from openweathermap.org and displaying the local temperature.
+
+**Thoughts:** Was able to leverage another tutorial to grab the weather data. I'm now setup to move to a new phase where I'll go from a one line to two line display that will have some scrolling. It's been very interesting work and I'm pleased with the progress.
+
+**Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
+
 <!---
 ### Day x: January xx, 2021
 
