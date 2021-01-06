@@ -79,6 +79,15 @@ in the Moon Clock project seems to be prepetually busy and unable to provide tim
 
 **Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
 
+### Day 9: January 6, 2021
+
+**Today's Progress:** Added second line to display and seeded with static event data.
+
+**Thoughts:** Getting the hang of adding static information to display, but I definitely see a challenge with doing animation (scrolling across). Next session I guess
+I will building in some kind of update loop that moves the text across the display. Ugh.
+
+**Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
+
 <!---
 ### Day x: January xx, 2021
 
