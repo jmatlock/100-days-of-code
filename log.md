@@ -88,6 +88,14 @@ I will building in some kind of update loop that moves the text across the displ
 
 **Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
 
+### Day 10: January 7, 2021
+
+**Today's Progress:** Added "days until" and current weather conditions.
+
+**Thoughts:** Nearly ready to declare this as MVP. Some frustration with choppy scrolling as card operations direction affect writing of display, but may decide it's just quirky and move on.
+
+**Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
+
 <!---
 ### Day x: January xx, 2021
 
