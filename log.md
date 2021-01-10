@@ -96,6 +96,15 @@ I will building in some kind of update loop that moves the text across the displ
 
 **Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
 
+### Day 11: January 10, 2021
+
+**Today's Progress:** Added text color changing when up and down buttons on the Matrix Portal board are pushed.
+
+**Thoughts:** On a whim I decided to play with the buttons on the Matrix Portal. I've also ready started planning the next project so I think I'll be done with this
+one for a little while.
+
+**Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
+
 <!---
 ### Day x: January xx, 2021
 
