@@ -105,6 +105,16 @@ one for a little while.
 
 **Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
 
+### Day 12: January 11, 2021
+
+**Today's Progress:** Started new project, Task Tracker, which is a Django web application. Created the initial project and added the simple data models for the tasks
+and other supporting data.
+
+**Thoughts:** It's been quite a while since I did anything with Django, and it's a little bit of a struggle getting back to it. But hopefully it will come back soon
+and I'll be able to make quicker progress. I'd only like to spend about 5 days on the project, but we'll see.
+
+**Link(s) to work:** [Task Tracker](https://github.com/jmatlock/TaskTracker)
+
 <!---
 ### Day x: January xx, 2021
 
