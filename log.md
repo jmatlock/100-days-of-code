@@ -115,6 +115,15 @@ and I'll be able to make quicker progress. I'd only like to spend about 5 days o
 
 **Link(s) to work:** [Task Tracker](https://github.com/jmatlock/TaskTracker)
 
+### Day 13: January 13, 2021
+
+**Today's Progress:** Created template view for the Task model, styled with Bootstrap 4
+
+**Thoughts:** Pulling a bit from Django For Beginners by William Vincent but tweaking it along the way. Much more progress than I expected. Unsure how far I want 
+to go with this project though. Still not that excited about the work, and I'm struggling (mentally) to keep going with this 100 days.
+
+**Link(s) to work:** [Task Tracker](https://github.com/jmatlock/TaskTracker)
+
 <!---
 ### Day x: January xx, 2021
 
