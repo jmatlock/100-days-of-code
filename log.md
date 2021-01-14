@@ -124,6 +124,14 @@ to go with this project though. Still not that excited about the work, and I'm s
 
 **Link(s) to work:** [Task Tracker](https://github.com/jmatlock/TaskTracker)
 
+### Day 14: January 14, 2021
+
+**Today's Progress:** Back to Matrix clock, added events, removed obsolete code, fixed issue where event is next year, and made 2nd line animation more consistent.
+
+**Thoughts:** Thought I'd go back and do some cleanup on the last project while I gather thoughts for next step on the Task Tracker project.
+
+**Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
+
 <!---
 ### Day x: January xx, 2021
 
