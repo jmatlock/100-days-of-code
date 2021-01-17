@@ -132,6 +132,14 @@ to go with this project though. Still not that excited about the work, and I'm s
 
 **Link(s) to work:** [Matrix Clock Plus](https://github.com/jmatlock/MatrixClockPlus)
 
+### Day 15: January 17, 2021
+
+**Today's Progress:** Added detail, edit, and delete views for Tasks.
+
+**Thoughts:** Back to the task tracker, getting refamiliarized with Django. 
+
+**Link(s) to work:** [Task Tracker](https://github.com/jmatlock/TaskTracker)
+
 <!---
 ### Day x: January xx, 2021
 
